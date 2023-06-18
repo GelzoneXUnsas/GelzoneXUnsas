@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lucas Li</h1>
+<h1 align="center">Hi ☕️, I'm Lucas Li</h1>
 <h3 align="center">Programmer - Gamer - Creator</h3>
 
-- 🔭 I’m currently working on [Virtuosos](https://gelzonexunsas.itch.io/virtuosos)
+- 🖥️ I’m currently working on [Virtuosos](https://gelzonexunsas.itch.io/virtuosos)
 
-- 🌱 I’m currently learning **OpenGL, Unity, Adobe**
+- 🛠️ I’m currently learning **OpenGL, Unity, Adobe**
 
-- 👯 I’m looking to collaborate on **any games in general!**
+- 💡 I’m looking to collaborate on **any games in general!**
 
-- 👨‍💻 All of my projects are available at [https://gelzonexunsas.github.io/](https://gelzonexunsas.github.io/)
+- 🏷️ All of my projects are available at [https://gelzonexunsas.github.io/](https://gelzonexunsas.github.io/)
 
-- 📫 How to reach me **lucasli010410@gmail.com**
+- 📩 How to reach me **lucasli010410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
