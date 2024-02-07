@@ -3,7 +3,7 @@
 
 - 🖥️ I’m currently working on [Virtuosos](https://gelzonexunsas.itch.io/virtuosos)
 
-- 🛠️ I’m currently learning **OpenGL, Unity, Adobe**
+- 🛠️ I’m currently learning **OpenGL, WebGL, WebXR, Unity**
 
 - 💡 I’m looking to collaborate on **any games in general!**
 
