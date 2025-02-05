@@ -5,7 +5,7 @@
 
 - 🛠️ I’m currently learning **OpenGL, WebGL, WebXR, Unity**
 
-- 💡 I’m looking to collaborate on **any games in general!**
+- 💡 I’m looking to collaborate on **any game jams** & **unique 2D games**!
 
 - 🏷️ All of my projects are available at [https://gelzonexunsas.github.io/](https://gelzonexunsas.github.io/)
 
