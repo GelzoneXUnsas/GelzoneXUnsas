@@ -1,7 +1,7 @@
 <h1 align="center">Hi ☕️, I'm Lucas Li</h1>
 <h3 align="center">Programmer - Gamer - Creator</h3>
 
-- 🖥️ I’m currently working on [Virtuosos](https://gelzonexunsas.itch.io/virtuosos)
+- 🖥️ I’m currently working on [Ongawa](https://linktr.ee/ongawa.game), a mobile rhythm RPG supporting indie artists.
 
 - 🛠️ I’m currently learning **OpenGL, WebGL, WebXR, Unity**
 
